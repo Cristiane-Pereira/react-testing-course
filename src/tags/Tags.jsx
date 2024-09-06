@@ -7,10 +7,11 @@ const Tags = () => {
 
     useEffect(() => {
         console.log("useEffect");
-        axios.get("https://localhost:3004/tags").then((responde) => {
-            setTags(responde.data);
-            console.log("response", responde.data)
+        axios.get("http://localhost:3004/tags").then((response) => {
+          console.log("response", response.data);
+          setTags(response.data);
         });
+
     }, [])
 
     return (
