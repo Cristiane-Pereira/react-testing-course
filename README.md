@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Libraries used to do unit testing with Jest and system testing / Testing E2E with Cypress
 
-https://vitest.dev/guide/why.html 
-https://testing-library.com/
-https://mswjs.io/ 
-https://github.com/enzymejs/enzyme
+- https://vitest.dev/guide/why.html 
+- https://testing-library.com/
+- https://mswjs.io/ 
+- https://github.com/enzymejs/enzyme
