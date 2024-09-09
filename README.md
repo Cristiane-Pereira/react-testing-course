@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 - https://testing-library.com/
 - https://mswjs.io/ 
 - https://github.com/enzymejs/enzyme
+- https://www.cypress.io/
