@@ -3,7 +3,6 @@ import { describe, expect, it, vi } from "vitest";
 import { TodosContext } from "../contexts/todos";
 import Footer from "./Footer";
 import userEvent from "@testing-library/user-event";
-
 import '@testing-library/jest-dom';
 
 
